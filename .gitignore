@@ -1,0 +1,6 @@
+*.pyc
+results/*
+Errors/errorlog.txt
+.github
+proxies/*
+config.json
